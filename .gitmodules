@@ -1,0 +1,9 @@
+[submodule "ServusBackend"]
+	path = ServusBackend
+	url = https://github.com/seg4910/ServusBackend.git
+[submodule "ServusBuyerApp"]
+	path = ServusBuyerApp
+	url = https://github.com/seg4910/ServusBuyerApp.git
+[submodule "ServusSellerApp"]
+	path = ServusSellerApp
+	url = https://github.com/seg4910/ServusSellerApp.git
